@@ -1,0 +1,14 @@
+{
+  "name": "tip-calculator",
+  "version": "1.0.0",
+  "description": "Tip Calculator App Frontend Mentor challenge",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html"
+  },
+  "author": "Kalp Chaudhary",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.3.2"
+  }
+}
